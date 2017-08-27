@@ -135,7 +135,7 @@ filesystem_folder = /radicale/data/collections
 # Web interface backend
 # Value: none | internal
 #type = internal
-type = none
+type = internal
 
 [logging]
 
